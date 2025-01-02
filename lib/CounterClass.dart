@@ -15,7 +15,7 @@ int result=0;
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Counter App"),
+        title: Text("Counter Appp"),
         centerTitle: true,
         backgroundColor: Colors.lightGreenAccent,
       ),
