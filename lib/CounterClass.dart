@@ -42,6 +42,7 @@ int result=0;
         (onPressed: (){
         result++;
         setState(() {
+
         });
       },
           icon: Icon(Icons.add_outlined)),
