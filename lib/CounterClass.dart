@@ -55,7 +55,6 @@ int result=0;
       },
           icon: Icon(Icons.remove)),
     ]),
-        
     ),
                SizedBox(height: 20,),
                 Center(
