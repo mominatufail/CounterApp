@@ -32,7 +32,7 @@ int result=0;
         onPressed: (){
           result = 0;
           setState((){
-
+            
           });
         },
       ),
