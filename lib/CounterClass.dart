@@ -44,7 +44,6 @@ int result=0;
 
         });
       },
-          
           icon: Icon(Icons.add)),
       IconButton
         (onPressed: (){
