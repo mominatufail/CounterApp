@@ -46,7 +46,7 @@ int result=0;
         });
 
       },
-          icon: Icon(Icons.add)),
+          icon: Icon(Icons.add_outlined)),
       IconButton
         (onPressed: (){
         if(result> 0) {
