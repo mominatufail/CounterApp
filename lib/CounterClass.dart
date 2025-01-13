@@ -27,7 +27,6 @@ int result=0;
         child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-
         IconButton(
         icon: Icon(Icons.refresh_rounded),
         onPressed: (){
