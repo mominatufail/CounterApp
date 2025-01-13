@@ -52,7 +52,8 @@ int result=0;
           result--;
           setState(() {});
         }
-      },icon: Icon(Icons.remove)),
+      },
+          icon: Icon(Icons.remove)),
     ]),
     ),
                SizedBox(height: 20,),
